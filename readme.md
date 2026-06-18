@@ -14,7 +14,8 @@ After *TvojeMama* released his original MC repeater board, *Radek* envisioned se
 
 ## Hardware Preview
 
-![PCB](PCB_Front.png)
+![PCB](PCB_Front.png)  
+![Render](Render.png)  
 
 ---
 

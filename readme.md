@@ -35,7 +35,7 @@ The pinout is compatible with the generic nRF52 Nano v2.0 footprints.
 The onboard PIC handles watchdog features and power management sleep cycles.
 * **Watchdog Firmware Repository:** [MeshCore_wdt Git](https://github.com/cncnet-info/MeshCore_wdt)
 
-## BOM
+## BOM - V1
 This one is only for orintetation. Please refer to the BOM in the root.
 | Name                                                      | Purpose                                                | Quantity | Total Cost (USD) | Link                                                                                               | Distributor |
 | --------------------------------------------------------- | ------------------------------------------------------ | -------- | ---------------- | -------------------------------------------------------------------------------------------------- | ----------- |
